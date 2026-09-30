@@ -74,6 +74,8 @@ Le portefeuille se compose de 1 000 emprunteurs et 13 variables :
 
 ## 🛠️ Installation & Utilisation
 
+Vous pouvez directement lire les notebooks sur GitHub si vous le préférez. Sinon, suivez la procédure suivante :
+
 ### 1. Cloner le dépôt
 ```bash
 git clone https://github.com/agathe-rnlt/Credit-Risk-Scoring.git
