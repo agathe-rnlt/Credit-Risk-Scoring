@@ -34,6 +34,10 @@ Credit-Risk-Scoring/
 
 # Jeu de Données (`loan_default_prediction.csv`)
 
+Les données utilisées pour ce projet proviennent de Kaggle :
+- **Nom du dataset** : Loan Default Prediction Dataset
+- **Lien** : [Loan Default Prediction Dataset sur Kaggle](https://www.kaggle.com/datasets/mmumairkhattak/loan-default-prediction-dataset?resource=download&select=DATA_DICTIONARY.md](https://www.kaggle.com/datasets/mmumairkhattak/loan-default-prediction-dataset/data)
+
 Le portefeuille se compose de 1 000 emprunteurs et 13 variables :
 
 * **Variable dépendante (target) :** `loan_status` (0 = Emprunteur Sain / 42,3 %, 1 = En Défaut / 57,7 %)
