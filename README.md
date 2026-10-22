@@ -3,6 +3,8 @@
 ## 📌 Présentation du Projet
 Ce projet met en œuvre la chaîne de construction d'un **modèle de scoring d'octroi de crédit bancaire**, aussi conforme que possible aux exigences Bâloises (Bâle II / Bâle III). 
 
+Il est la version plus aboutie, avec de meilleures données, d'un projet que j'avais mené pendant mon stage d'observation en risque de crédit que j'ai effectué en 1ère année d'école d'ingénieur. J'ai repris la même méthodologie.
+
 L'objectif est d'évaluer le risque de défaillance des emprunteurs (`loan_status`), de linéariser les prédicteurs via la transformation **Weight of Evidence (WoE)**, d'estimer une **Régression Logistique** et de calibrer une **grille de score opérationnelle** pour guider la décision d'octroi en banque de détail.
 
 ---
